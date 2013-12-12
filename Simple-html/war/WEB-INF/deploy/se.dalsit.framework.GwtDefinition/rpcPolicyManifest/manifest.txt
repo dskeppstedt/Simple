@@ -1,0 +1,2 @@
+# Module se.dalsit.framework.GwtDefinition
+# RPC service class, partial path of RPC policy file

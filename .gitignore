@@ -1,0 +1,13 @@
+/bin
+Framework/war
+Framework/war
+
+Framework-android/assets/data/*.DS_Store
+/Framework-android/assets/data/*.DS_Store
+
+/Framework-android/assets/*.DS_Store
+
+/Framework-android/assets/.DS_Store
+/Framework-android/._.DS_Store
+/Framework-android/.DS_Store
+/Framework-html/gwt-unitCache
